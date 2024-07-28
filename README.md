@@ -1,3 +1,3 @@
 <p align="center">
-<img src="https://i0.wp.com/www.middleware-solutions.fr/wp-content/uploads/2022/03/Microsoft-Azure-Logo.jpg?ssl=1" height="80%" width="120%"/>
+<img src="https://www.xpand-it.com/wp-content/uploads/2021/05/Banner_Azure_1920x500.png"/>
 </p>
